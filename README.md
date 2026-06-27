@@ -126,7 +126,7 @@ Input (32×32×3)
 | Model | Custom CNN |
 | Training Images | 50,000 |
 | Testing Images | 10,000 |
-| Test Accuracy | **≈80%** |
+| Test Accuracy | **≈81%** |
 
 > Results may vary depending on hardware and random initialization.
 
